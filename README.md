@@ -2,7 +2,7 @@
 <p align="center">Scan CreditCard using Mobile Camera</p>
 
 <p align="center">
-<a href="https://twitter.com/intent/tweet?text=Scan,%20CreditCard,%20using%20Mobile%20Camera%0D%0D&url=https://github.com/FaceOnLive/CreditCard-Recogntion-SDK-Android%0D%0D&hashtags=ocr,computervision,deeplearning,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
+<a href="https://twitter.com/intent/tweet?text=Scan,%20CreditCard%20using%20Mobile%20Camera%0D%0D&url=https://github.com/FaceOnLive/CreditCard-Recogntion-SDK-Android%0D%0D&hashtags=ocr,computervision,deeplearning,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
 </p>
 
 
