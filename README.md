@@ -1,4 +1,4 @@
-<h1 align="center">CreditCard Recogntion SDK For Android</h1>
+<h1 align="center">CreditCard Recognition SDK For Android</h1>
 <p align="center">Scan CreditCard using Mobile Camera</p>
 
 <p align="center">
@@ -20,6 +20,6 @@ https://user-images.githubusercontent.com/91896009/135904701-3eeec729-f183-43c2-
 </br>
 
 ## :clap:  Supporters
-[![Stargazers repo roster for @faceonlive/CreditCard-Recogntion-SDK-Android](https://reporoster.com/stars/faceonlive/CreditCard-Recogntion-SDK-Android)](https://github.com/faceonlive/CreditCard-Recogntion-SDK-Android/stargazers)
-[![Forkers repo roster for @faceonlive/CreditCard-Recogntion-SDK-Android](https://reporoster.com/forks/faceonlive/CreditCard-Recogntion-SDK-Android)](https://github.com/faceonlive/CreditCard-Recogntion-SDK-Android/network/members)
+[![Stargazers repo roster for @faceonlive/CreditCard-Recognition-SDK-Android](https://reporoster.com/stars/faceonlive/CreditCard-Recognition-SDK-Android)](https://github.com/faceonlive/CreditCard-Recognition-SDK-Android/stargazers)
+[![Forkers repo roster for @faceonlive/CreditCard-Recognition-SDK-Android](https://reporoster.com/forks/faceonlive/CreditCard-Recognition-SDK-Android)](https://github.com/faceonlive/CreditCard-Recognition-SDK-Android/network/members)
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
