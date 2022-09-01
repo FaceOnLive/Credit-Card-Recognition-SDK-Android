@@ -2,7 +2,10 @@
 <p align="center">Scan CreditCard using Mobile Camera</p>
 
 <p align="center">
-<a href="https://twitter.com/intent/tweet?text=Scan%20CreditCard%20using%20Mobile%20Camera%0D%0D&url=https://github.com/FaceOnLive/CreditCard-Recogntion-SDK-Android%0D%0D&hashtags=ocr,computervision,deeplearning,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
+<a target="_blank" href="mailto:contact@faceonlive.com"><img src="https://img.shields.io/badge/email-contact@faceonlive.com-blue.svg?logo=gmail " alt="www.faceonlive.com"></a>&emsp;
+<a target="_blank" href="https://t.me/faceonlive"><img src="https://img.shields.io/badge/telegram-@faceonlive-blue.svg?logo=telegram " alt="www.faceonlive.com"></a>&emsp;
+<a target="_blank" href="https://wa.me/+17074043606"><img src="https://img.shields.io/badge/whatsapp-faceonlive-blue.svg?logo=whatsapp " alt="www.faceonlive.com"></a>&emsp;
+<a target="_blank" href="skype:demidemi1125?chat"><img src="https://img.shields.io/badge/skype-demidemi1125-blue.svg?logo=skype " alt="www.faceonlive.com"></a>
 </p>
 
 
@@ -20,6 +23,6 @@ https://user-images.githubusercontent.com/91896009/135904701-3eeec729-f183-43c2-
 </br>
 
 ## :clap:  Supporters
-[![Stargazers repo roster for @faceonlive/CreditCard-Recognition-SDK-Android](https://reporoster.com/stars/faceonlive/CreditCard-Recognition-SDK-Android)](https://github.com/faceonlive/CreditCard-Recognition-SDK-Android/stargazers)
-[![Forkers repo roster for @faceonlive/CreditCard-Recognition-SDK-Android](https://reporoster.com/forks/faceonlive/CreditCard-Recognition-SDK-Android)](https://github.com/faceonlive/CreditCard-Recognition-SDK-Android/network/members)
+[![Stargazers repo roster for @faceonlive/Credit-Card-Recognition-SDK-Android](https://reporoster.com/stars/faceonlive/Credit-Card-Recognition-SDK-Android)](https://github.com/faceonlive/Credit-Card-Recognition-SDK-Android/stargazers)
+[![Forkers repo roster for @faceonlive/Credit-Card-Recognition-SDK-Android](https://reporoster.com/forks/faceonlive/Credit-Card-Recognition-SDK-Android)](https://github.com/faceonlive/Credit-Card-Recognition-SDK-Android/network/members)
 <p align="center"><a href="https://github.com/nastyox/Rando.js#nastyox"><img src="http://randojs.com/images/barsSmallTransparentBackground.gif" alt="Animated footer bars" width="100%"/></a></p>
